@@ -33,4 +33,3 @@ bash \n
 CopyEdit \n
 pip install -r requirements.txt
 
--	
