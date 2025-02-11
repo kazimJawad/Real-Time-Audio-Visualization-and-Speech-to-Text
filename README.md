@@ -28,8 +28,13 @@ This project is an interactive dashboard that provides real-time audio signal vi
 # Prerequisites
 -	Python 3.x: Make sure you have Python 3.x installed on your machine.
 -	Libraries: Install the required Python libraries.
-- To install all the necessary dependencies, use the following command:
-* bash 
-* CopyEdit
-* pip install -r requirements.txt
+
+# Interactions
+Once the dashboard is running, you can interact with the following features:
+-	Select Input Device: Use the dropdown to select your audio input device (microphone or other devices).
+-	Real-Time dB Level: View the current dB level in real-time.
+-	Waveform and Spectrogram: Monitor the waveform and spectrogram of the live audio signal.
+- Speech-to-Text: Click "Start Transcription" to begin converting speech into text. Click "Stop Transcription" to stop.
+-	Data Saving: Click "Start Data Saving" to save audio statistics and transcriptions to a CSV file. Click "Stop Data Saving" to halt data saving.
+
 
