@@ -29,7 +29,7 @@ This project is an interactive dashboard that provides real-time audio signal vi
 -	Python 3.x: Make sure you have Python 3.x installed on your machine.
 -	Libraries: Install the required Python libraries.
 - To install all the necessary dependencies, use the following command:
-bash \n
-CopyEdit \n
-pip install -r requirements.txt
+* bash 
+* CopyEdit
+* pip install -r requirements.txt
 
