@@ -16,10 +16,21 @@ This project is an interactive dashboard that provides real-time audio signal vi
 
 
 # Tech Stack
-•	Dash: Web framework for building interactive web applications.
-•	Plotly: For creating interactive visualizations (dB levels, waveform, spectrogram).
-•	SpeechRecognition: For converting audio to text.
-•	pyaudio: For capturing audio input.
-•	NumPy: For handling numerical operations such as calculating dB levels.
-•	CSV: For saving captured data into a CSV file.
-•	Threading: Used for handling real-time audio streaming and background tasks (like data saving).
+-	Dash: Web framework for building interactive web applications.
+-	Plotly: For creating interactive visualizations (dB levels, waveform, spectrogram).
+-	SpeechRecognition: For converting audio to text.
+-	pyaudio: For capturing audio input.
+-	NumPy: For handling numerical operations such as calculating dB levels.
+-	CSV: For saving captured data into a CSV file.
+-	Threading: Used for handling real-time audio streaming and background tasks (like data saving).
+
+# Installation
+# Prerequisites
+-	Python 3.x: Make sure you have Python 3.x installed on your machine.
+-	Libraries: Install the required Python libraries.
+- To install all the necessary dependencies, use the following command:
+bash \n
+CopyEdit \n
+pip install -r requirements.txt
+
+-	
